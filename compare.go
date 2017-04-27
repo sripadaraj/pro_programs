@@ -1,5 +1,4 @@
-package sri
-
+package unit
 
 // Compare returns an integer comparing two strings lexicographically.
 
