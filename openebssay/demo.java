@@ -31,9 +31,7 @@ while ((sCurrentLine = br.readLine()) != null) {
 			}
 
 		} catch (IOException e) {
-
 			e.printStackTrace();
-
 		} finally {
 
 			try {
